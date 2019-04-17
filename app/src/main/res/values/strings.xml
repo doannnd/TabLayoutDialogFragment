@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabLayoutDialogFragment</string>
+    <string name="tab_login">Login</string>
+    <string name="tab_register">Register</string>
+    <string name="show_dialog_button_text">Show Dialog</string>
+    <string name="dialog_message">Are you sure ?</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="your_name_text">Your Name</string>
+    <string name="hint_your_name">Enter your name</string>
+    <string name="dialog_title">DEBUG</string>
+</resources>
